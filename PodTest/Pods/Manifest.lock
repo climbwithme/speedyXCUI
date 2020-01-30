@@ -1,0 +1,16 @@
+PODS:
+  - speedyXCUI (1.0.0)
+
+DEPENDENCIES:
+  - speedyXCUI (from `../speedyXCUI/`)
+
+EXTERNAL SOURCES:
+  speedyXCUI:
+    :path: "../speedyXCUI/"
+
+SPEC CHECKSUMS:
+  speedyXCUI: 9f90566494b71541ff2aeda5e8284c0cb3dcdaba
+
+PODFILE CHECKSUM: 1c8fd6e1697f544bcbfdde958f5a7538084861cc
+
+COCOAPODS: 1.8.4

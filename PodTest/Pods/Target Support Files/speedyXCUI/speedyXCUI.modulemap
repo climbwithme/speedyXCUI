@@ -1,0 +1,6 @@
+framework module speedyXCUI {
+  umbrella header "speedyXCUI-umbrella.h"
+
+  export *
+  module * { export * }
+}
